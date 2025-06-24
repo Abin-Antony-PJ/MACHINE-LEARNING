@@ -24,7 +24,7 @@ This repository contains **machine learning projects** created using real-world 
 
 This project uses the publicly available dataset from Kaggle:
 
-[🔗 Credit Card Fraud Detection Dataset — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+[Credit Card Fraud Detection Dataset — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 > **Note**: The dataset is not included in this repository due to redistribution restrictions. Please download it directly from Kaggle to replicate the project.
 
@@ -60,9 +60,6 @@ This project reflects my ability to apply data science to solve real-world busin
 I'm **Abin Antony P J**, a business graduate currently pursuing data science, passionate about transforming raw data into meaningful insights.  
 My core focus is to solve real-world business problems using data-driven solutions powered by machine learning and AI.
 
-- **Email**: [abinantonypj08@gmail.com](mailto:abinantonypj08@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/abin-antony-p-j](https://www.linkedin.com/in/abin-antony-p-j/)
-
 ---
 
 ## License
@@ -70,6 +67,6 @@ My core focus is to solve real-world business problems using data-driven solutio
 This project is licensed under the **MIT License**.  
 You are free to learn from and build upon the code with proper attribution. Commercial use or redistribution of project files (including presentation materials) is not permitted without permission.
 
-> See [LICENSE](LICENSE) file for full terms.
+> See [license](LICENSE) file for full terms.
 
 ---
