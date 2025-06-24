@@ -24,7 +24,7 @@ This repository contains **machine learning projects** created using real-world 
 
 This project uses the publicly available dataset from Kaggle:
 
-[Credit Card Fraud Detection Dataset — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+[Abstract data set for Credit card fraud detection — Kaggle](https://www.kaggle.com/datasets/shubhamjoshi2130of/abstract-data-set-for-credit-card-fraud-detection)
 
 > **Note**: The dataset is not included in this repository due to redistribution restrictions. Please download it directly from Kaggle to replicate the project.
 
@@ -38,6 +38,7 @@ This project and presentation are part of my personal data science portfolio.
 © 2025 Abin Antony P J. All rights reserved.
 
 ---
+
 ## For Recruiters & Reviewers
 
 This project reflects my ability to apply data science to solve real-world business problems, structure code clearly, and present insights visually. If you're viewing this as part of a portfolio review, feel free to reach out:
