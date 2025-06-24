@@ -38,6 +38,14 @@ This project and presentation are part of my personal data science portfolio.
 © 2025 Abin Antony P J. All rights reserved.
 
 ---
+## For Recruiters & Reviewers
+
+This project reflects my ability to apply data science to solve real-world business problems, structure code clearly, and present insights visually. If you're viewing this as part of a portfolio review, feel free to reach out:
+
+**Email**: [abinantonypj08@gmail.com](mailto:abinantonypj08@gmail.com)  
+**LinkedIn**: [linkedin.com/in/abin-antony-p-j](https://www.linkedin.com/in/abin-antony-p-j/)
+
+---
 
 ## Key Skills Demonstrated
 
